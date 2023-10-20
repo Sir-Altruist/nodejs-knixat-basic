@@ -34,6 +34,6 @@ jobs:
       with:
         app-name: altruist-web
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF8EC5615CED4D01B5DBE7CD0CACD94C }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF4F0CC86A204971963925F9657BBD50 }}
         package: .
 
